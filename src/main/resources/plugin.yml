@@ -1,0 +1,7 @@
+name: Mysql-Inventory
+version: '${project.version}'
+main: de.wyldquest.mysqlinventory.MysqlInventory
+api-version: 1.18
+
+commands:
+  store:
